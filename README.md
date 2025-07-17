@@ -1,5 +1,3 @@
-# SkillsPP_GameDev_Week0_Harsita
-My spooky horror forest project made with Unity for Skills++ Week 0.
 # SkillsPP GameDev Week 0 - Harsita
 
 ## 🌲 Project Description
